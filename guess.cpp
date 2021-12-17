@@ -17,7 +17,7 @@ cout<<"output :"<<s<<endl;
 while(n>0&&c!=k)
 {
 	count=0;
-	cout<<"Enter your character:";
+	cout<<"Enter your gussed character:";
 	cin>>p;
 	for(j=0;j<k+1;j++)
 	{
