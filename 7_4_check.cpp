@@ -3,26 +3,26 @@
 using namespace std;
 int main() {
     int n,i,j=0,r,c=0;
-    cout<<"enter the num";
+    cout<<"enter the number";
     cin>>n;
-    i=n;
-  while(n!=0)
+
+while(n!=0)
     {
         j++;
         r=n%10;
         if(r==4||r==7)
         {
             c++;
-           
+         
         }
         n=n/10;
     }
    if(c==j)
    {
-       cout<<"yes";
+       cout<<"Yes";
    }
    else{
-       cout<<"no";
+       cout<<"No";
    }
 
     return 0;
