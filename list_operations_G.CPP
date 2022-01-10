@@ -47,12 +47,23 @@ int main()
 
 /*OUTPUT:
 
-Numbers are: 5 10           15           20
-Insert elements at the beginning of list
-After inserting elements are:
-25           5              10           15           20
-Delete elements at beginning of list
-Numbers are: 5 10           15           20
-Delete least element
-Numbers are: 5 10           15
-Elements in reverse order: 15     10           5*/
+enter the no.of ele in list
+5
+enter the elements in list
+1
+2
+3
+4
+5
+
+ Numbers are:1 2 3 4 5
+ Insert elements at the beginning of list0
+
+ After inserting elements are:0 1 2 3 4 5
+ Delete elements at the beginning
+ele deleted is 0
+ Numbers are: 1 2 3 4 5
+ Delete least element
+ele deleted is 5
+ Numbers are: 1 2 3 4
+ Elements in reverse order:4 3 2 1*/
